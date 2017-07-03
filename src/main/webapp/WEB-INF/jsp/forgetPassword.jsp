@@ -151,6 +151,7 @@
         </div>
     </div>
     
+    
     <div class="footer-bottom">
         <div class="container">
             <p class="pull-left"> Copyright © 2017. All right reserved. <span>Web Design By: <a href="javascript:void(0)"><spring:message code="company.website.name"/></a></span></p>
