@@ -1,0 +1,101 @@
+.common_data, .img-s,/* .pagination */{
+  float: left;
+  width: 100%;
+}
+.q_dv  {
+  width: 100%;
+  float: left;
+}
+.ans_dv{
+  width: 72%;
+  float: left;
+}
+.q_pagin {
+  background-color: #000000;
+}
+.q_skipped {
+  background-color: #FF0000;
+}
+.q_attempt {
+  background-color: #006600;
+}
+.wd60{
+width:100%;
+float: left;
+
+}
+.cop1 {
+  width: 250px;
+  height: auto;
+  margin-left: 220px;
+  float: left;
+
+}
+/* Social - footer
+========================== */
+
+ul.social-networks {
+  overflow: hidden;
+  margin: 0px 0 0 0px;
+  padding: 0 0 0 0px;
+  float:right;
+
+}
+ul.social-networks li {
+  float: left;
+  margin: 20px 1px 0;
+  list-style: none;
+  border: none;
+}
+
+.icon-twitter a, .icon-facebook a, .icon-pinterest a, .icon-linkedin a, .icon-flickr a, .icon-dribbble a {
+  float: left;
+  background: url(http://www.freeonlinetest.in/images/social-sprite.png) no-repeat left bottom;
+  text-indent: 8000px;
+  width: 40px;
+  height: 30px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.icon-twitter a:hover, .icon-facebook a:hover, .icon-pinterest a:hover, .icon-linkedin a:hover, .icon-flickr a:hover, .icon-dribbble a:hover {
+  background: url(images/social-sprite.png) no-repeat left top;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.icon-facebook, .icon-facebook a {
+  background-position: -120px top;
+}
+.icon-facebook a:hover {
+  background-position: -120px bottom;
+}
+.icon-twitter, .icon-twitter a {
+  background-position: -80px top;
+}
+.icon-twitter a:hover {
+  background-position: -80px bottom;
+}
+.icon-dribbble, .icon-dribbble a {
+  background-position: -40px top;
+}
+.icon-dribbble a:hover {
+  background-position: -40px bottom;
+}
+.icon-linkedin, .icon-linkedin a {
+  background-position: 0px top;
+}
+.icon-linkedin a:hover {
+  background-position: 0px bottom;
+}
+.mrq{
+width:100%;
+float:left;
+color:#f30;font-size:small;
+}
+.wd60{
+width:78% !important; float:left;margin:7px 0 0 0 !important;
+}

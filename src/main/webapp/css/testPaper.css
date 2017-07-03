@@ -1,0 +1,26 @@
+.common_data, .img-s,/* .pagination */{
+	  float: left;
+	  width: 100%;
+	}
+	.q_dv  {
+	  width: 100%;
+	  float: left;
+	}
+	.ans_dv{
+	  width: 72%;
+	  float: left;
+	}
+	.q_pagin {
+	  background-color: #000000;
+	}
+	.q_skipped {
+	  background-color: #FF0000;
+	}
+	.q_attempt {
+	  background-color: #006600;
+	}
+	.wd60{
+	width:100%;
+	float: left;
+	
+	}
